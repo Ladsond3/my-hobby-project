@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto 10px auto;
+  padding: 0;
+  max-width: 1000px;
+  background-color: #115f84;
+  font-family: 'Baloo Bhaina', cursive;
+}
+
+h1 {
+  color: #fffffd;
+  font-family: 'Baloo Bhaina', cursive;
+  text-align:center;
+}
+
+h2 {
+  color: #fffffd;
+  font-family: 'Baloo Bhaina', cursive;
+}
+
+p {
+  color: #fffffd;
+  font-family: 'Baloo Bhaina', cursive;
+}

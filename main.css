@@ -1,0 +1,44 @@
+body {
+  margin: 0 auto 10px auto;
+  padding: 0;
+  max-width: 1000px;
+  background-color: #115f84;
+  font-family: 'Baloo Bhaina', cursive;
+}
+
+img {
+  max width: 100%;
+}
+
+h1 {
+  color: #fffffd;
+  font-size: 55px;
+  font-family: 'Baloo Bhaina', cursive;
+  text-align:center;
+  border: double 20px;
+}
+
+h2 {
+  color: #fffffd;
+  font-size: 45px;
+  font-family: 'Baloo Bhaina', cursive;
+}
+
+p {
+  color: #ffff88;
+  font-size: 30px;
+  font-family: 'Baloo Bhaina', cursive;
+
+}
+
+a:link {
+  color: #660000;
+}
+
+a:visited {
+  color: #fd6601;
+}
+
+a:hover {
+  color: #ee0001;
+}
